@@ -1,5 +1,5 @@
 - I’m currently learning PowerShell and Python
-- Machine Learning and automation is my cup of tea....
+- Automation is my cup of tea....
 
 
 <!---
