@@ -18,6 +18,9 @@ I code mostly for fun, so you probably won't find anything useful here. My main 
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-1a70ba?&logo=arcgis&logoColor=white)
 ![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-4285F4?&logo=googleearthengine&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff)
+![JOSM](https://img.shields.io/badge/JOSM-eb6e21?logoColor=white)
+![Canva](https://custom-icon-badges.demolab.com/badge/Canva-%2302a2a8.svg?&logo=canva&logoColor=white)
+![Affinity Studio](https://custom-icon-badges.demolab.com/badge/Affinity-A7F175?logo=affinitystudio&logoColor=black)
 
 ### Check out my codes
 <b><a href="https://github.com/FireLies/Felix" style="font-size: 50px;">Felix</a></b>
