@@ -1,6 +1,6 @@
 ## Hello, I'm Johannes Titor 👀
 
-I code mostly for fun, so you probably won't find anything useful here. My main interest is algorithm design and visualization, as well as CLI based tools. Oh, and all of my codes are made by me, a human being.
+I code mostly for fun, so you probably won't find anything useful here. My main interest are algorithm design and visualization, as well as CLI based tools. Oh, and all of my codes are made by me, a human being.
 
 ### Language & framework
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
